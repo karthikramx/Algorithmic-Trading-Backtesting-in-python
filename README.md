@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+=======
+# Algorithmic Trading (Backtesting in python)
+Code snippet show casing backtesting a strategy in python on historical stock market data.
+
+
 <font size=3><strong>Intro</strong></font><br />
 The goal of this article is to describe how to back-test a technical indicator-based strategy on python. I will specifically use a Bollinger band-based strategy to create signals and positions.
 
@@ -539,10 +543,4 @@ The performance of a strategy can also be optimized by checking the returns on v
 Various other technical indicators can be used in conjunction to create signals which can reduce risks and improve performance. Live strategies should implement stop loss and kill switches in case the strategy goes of hand.
 
 This code snippet can be found at : https://github.com/karthikramx/Algorithmic-Trading-Backtesting-python-example
-=======
-# Algorithmic Trading (Backtesting in python)
-Code snippet show casing backtesting a strategy in python on historical stock market data.
 
-%%html
-<a href="https://github.com/karthikramx/Algorithmic-Trading-Backtesting-python-example/blob/main/Algorithmic%20Trading%E2%80%8A-%E2%80%8ABacktesting%20a%20strategy%20in%20python.ipynb">hello</a>
->>>>>>> ec0bde46219b3d8373cd014b9c9ec12f51836f69
